@@ -1,0 +1,1 @@
+Serviço gerenciável de DNS da amazon; 

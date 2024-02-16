@@ -1,0 +1,1 @@
+Serviço de CI/CD totalmente gerencido; Executa testes e produz pacote de software prontos.

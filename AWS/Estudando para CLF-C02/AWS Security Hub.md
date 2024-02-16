@@ -1,0 +1,1 @@
+Coleta as informações de outros serviços como [[Amazon GuardDuty]], [[AWS Macie]], [[AWS Inspector]], e bota tudo num lugar só.

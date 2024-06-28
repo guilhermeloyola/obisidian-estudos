@@ -54,8 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89eda380daafd82c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,7 +194,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34e2d73a2ae2ee52",
+  "active": "89eda380daafd82c",
   "lastOpenFiles": [
     "README.md",
     "AWS/Estudando para CLF-C02/AWS Shield.md",

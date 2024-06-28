@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78976f778414bca1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/Estudando para CLF-C02/AWS WAF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e926ef66f085b3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/Estudando para CLF-C02/AWS CodeBuild.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ca983a5b3efe8a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/Estudando para CLF-C02/_Estudos para certificação CLF-C02 - Dia 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7c3e3b2c44d7470",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/Estudando para CLF-C02/AWS CloudTrail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "89eda380daafd82c",
             "type": "leaf",
             "state": {
@@ -65,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Estudando para CLF-C02/AWS WAF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Estudando para CLF-C02/AWS WAF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

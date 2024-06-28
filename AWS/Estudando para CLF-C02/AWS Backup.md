@@ -1,1 +1,0 @@
-Serviço de gerenciamento de backups dos serviços. 

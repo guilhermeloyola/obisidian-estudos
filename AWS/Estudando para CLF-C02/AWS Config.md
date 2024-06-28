@@ -1,1 +1,0 @@
-Serviço que permite acessar, auditar e avaliar configurações.

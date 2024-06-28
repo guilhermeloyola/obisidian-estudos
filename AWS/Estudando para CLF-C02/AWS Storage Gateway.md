@@ -1,1 +1,0 @@
-Quando cliente existe numa nuvem hibrida entre AWS e servidores próprios, o AWS StorageGateway oferece suporte de backup através de comandos etc etc

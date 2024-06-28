@@ -1,1 +1,0 @@
-Serviço de testes de aplicações móveis e web simultaneamente em vários navegadores ou dispositivos para acelerar a execução do conjunto de testes, gerando vídeos e logs.
